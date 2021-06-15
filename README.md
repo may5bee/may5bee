@@ -8,7 +8,7 @@ After all, we never actually buy product features do we? We buy better versions 
 
 These days I'm working on <b>CompoundUX</b>, a consultancy that accelerates startups.
 
-The thesis is simple: UX compounds, meaning that successful user experiences (and conversions) are never the result of additive improvements, but of <b>multiplicative</b> and <b>exponential</b> ones.
+The thesis is simple: UX compounds, meaning that the most successful user experiences are never the result of additive improvements, but of <b>multiplicative</b> and <b>exponential</b> ones.
 
 
 
