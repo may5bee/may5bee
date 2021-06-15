@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋
 
-<!--
-**may5bee/may5bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kevin and I live in NYC.
 
-Here are some ideas to get you started:
+The broad idea behind my work is that **user success is fractal**. For software creators, "making users successful and getting paid for it" is a process that starts by looking at what our users want in their LIVES and how they're trying to GET it. Then it's a matter of recursing downwards and downwards to those aha! moments everyone is talking about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After all, we never really buy product features do we? We buy better versions of ourselves.
+
+These days I'm working on <b>CompoundUX</b>, a consultancy that accelerates startups.
+
+The thesis is simple: UX compounds, meaning that successful user experiences (and conversions) are never the result of additive improvements, but of <b>multiplicative</b> and <b>exponential</b> ones.
+
+
+
+
