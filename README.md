@@ -1,4 +1,4 @@
-### 👋
+###
 
 My name is Kevin and I live in NYC.
 
