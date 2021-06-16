@@ -1,5 +1,3 @@
-###
-
 My name is Kevin and I live in NYC.
 
 The broad idea behind my work is that **user success is fractal**. For software creators, "making users successful and getting paid for it" is a process that starts by looking at what our users want in their LIVES and how they're trying to GET it. Then it's a matter of recursing downwards and downwards to those aha! interaction moments everyone is talking about.
