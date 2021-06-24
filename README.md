@@ -4,7 +4,7 @@ After all, people don't buy products. They buy better versions of themselves (an
 
 These days I'm working on <b>CompoundUX</b>, a software consultancy with a simple thesis:
 
-UX compounds like interest...so the most successful experiences never come from additive changes, but from <b>exponential</b> ones that happen far before a purchase is even made.
+UX compounds exactly like interest. Compounding user success equals exponential bottom-line growth, and should be optimized for ASAP.
 
 
 
