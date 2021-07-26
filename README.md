@@ -3,5 +3,5 @@ The broad idea behind my work is that **user success is fractal**, and exists wi
 After all, we don't buy products, do we? We buy better versions of ourselves.
 
 Fun stuff:
-may5bee.github.io/sandbox
+[may5bee.github.io/sandbox](https://may5bee.github.io/sandbox)
 
