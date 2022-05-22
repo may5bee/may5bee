@@ -1,1 +1,2 @@
-**user success is fractal**, and must be examined within the context of **life story success**.
+on UX:
+user success is fractal...  when making products look to the top level: life-story success
